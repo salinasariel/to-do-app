@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrador\\Desktop\\simple-to-do\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7551BC2E-A0CE-45A6-BD11-FFCEC1D8975F}|simple-to-do\\simple-to-do.csproj|c:\\users\\administrador\\desktop\\simple-to-do\\simple-to-do\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7551BC2E-A0CE-45A6-BD11-FFCEC1D8975F}|simple-to-do\\simple-to-do.csproj|solutionrelative:simple-to-do\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7551BC2E-A0CE-45A6-BD11-FFCEC1D8975F}|simple-to-do\\simple-to-do.csproj|c:\\users\\administrador\\desktop\\simple-to-do\\simple-to-do\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7551BC2E-A0CE-45A6-BD11-FFCEC1D8975F}|simple-to-do\\simple-to-do.csproj|solutionrelative:simple-to-do\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7551BC2E-A0CE-45A6-BD11-FFCEC1D8975F}|simple-to-do\\simple-to-do.csproj|c:\\users\\administrador\\desktop\\simple-to-do\\simple-to-do\\models\\relations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7551BC2E-A0CE-45A6-BD11-FFCEC1D8975F}|simple-to-do\\simple-to-do.csproj|solutionrelative:simple-to-do\\models\\relations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7551BC2E-A0CE-45A6-BD11-FFCEC1D8975F}|simple-to-do\\simple-to-do.csproj|c:\\users\\administrador\\desktop\\simple-to-do\\simple-to-do\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7551BC2E-A0CE-45A6-BD11-FFCEC1D8975F}|simple-to-do\\simple-to-do.csproj|solutionrelative:simple-to-do\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7551BC2E-A0CE-45A6-BD11-FFCEC1D8975F}|simple-to-do\\simple-to-do.csproj|c:\\users\\administrador\\desktop\\simple-to-do\\simple-to-do\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7551BC2E-A0CE-45A6-BD11-FFCEC1D8975F}|simple-to-do\\simple-to-do.csproj|solutionrelative:simple-to-do\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7551BC2E-A0CE-45A6-BD11-FFCEC1D8975F}|simple-to-do\\simple-to-do.csproj|c:\\users\\administrador\\desktop\\simple-to-do\\simple-to-do\\data\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7551BC2E-A0CE-45A6-BD11-FFCEC1D8975F}|simple-to-do\\simple-to-do.csproj|solutionrelative:simple-to-do\\data\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7551BC2E-A0CE-45A6-BD11-FFCEC1D8975F}|simple-to-do\\simple-to-do.csproj|c:\\users\\administrador\\desktop\\simple-to-do\\simple-to-do\\simple-to-do.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7551BC2E-A0CE-45A6-BD11-FFCEC1D8975F}|simple-to-do\\simple-to-do.csproj|solutionrelative:simple-to-do\\simple-to-do.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\simple-to-do\\simple-to-do\\appsettings.json",
+              "RelativeDocumentMoniker": "simple-to-do\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\simple-to-do\\simple-to-do\\appsettings.json",
+              "RelativeToolTip": "simple-to-do\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-09T22:05:21.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\simple-to-do\\simple-to-do\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "simple-to-do\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\simple-to-do\\simple-to-do\\Models\\Users.cs",
+              "RelativeToolTip": "simple-to-do\\Models\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T21:55:02.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Relations.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\simple-to-do\\simple-to-do\\Models\\Relations.cs",
+              "RelativeDocumentMoniker": "simple-to-do\\Models\\Relations.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\simple-to-do\\simple-to-do\\Models\\Relations.cs",
+              "RelativeToolTip": "simple-to-do\\Models\\Relations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T21:57:07.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\simple-to-do\\simple-to-do\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "simple-to-do\\Models\\TodoItem.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\simple-to-do\\simple-to-do\\Models\\TodoItem.cs",
+              "RelativeToolTip": "simple-to-do\\Models\\TodoItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T21:56:22.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\simple-to-do\\simple-to-do\\Program.cs",
+              "RelativeDocumentMoniker": "simple-to-do\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\simple-to-do\\simple-to-do\\Program.cs",
+              "RelativeToolTip": "simple-to-do\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T22:03:12.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ToDoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\simple-to-do\\simple-to-do\\Data\\ToDoDbContext.cs",
+              "RelativeDocumentMoniker": "simple-to-do\\Data\\ToDoDbContext.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\simple-to-do\\simple-to-do\\Data\\ToDoDbContext.cs",
+              "RelativeToolTip": "simple-to-do\\Data\\ToDoDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T22:01:20.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "simple-to-do",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\simple-to-do\\simple-to-do\\simple-to-do.csproj",
+              "RelativeDocumentMoniker": "simple-to-do\\simple-to-do.csproj",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\simple-to-do\\simple-to-do\\simple-to-do.csproj",
+              "RelativeToolTip": "simple-to-do\\simple-to-do.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-09T22:00:14.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
